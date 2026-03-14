@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ルサンチマン",
+  "base_artist": "Aliey:S",
+  "createdAt": "2026-03-14T18:29:05.433212Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ルサンチマン (Lusentiment)",
+      "artist": "teto",
+      "has_synced": true,
+      "path": "select/01_ルサンチマン_(Lusentiment)_teto.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ルサンチマン",
+      "artist": "teto",
+      "has_synced": true,
+      "path": "select/02_ルサンチマン_teto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ルサンチマン・クラブ",
+      "artist": "Doctrine Doctrine",
+      "has_synced": false,
+      "path": "select/03_ルサンチマン・クラブ_Doctrine_Doctrine.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ルサンチマン",
+      "artist": "Aliey:S",
+      "has_synced": false,
+      "path": "select/pl_01_ルサンチマン_Aliey_S.txt"
+    }
+  ]
+}
